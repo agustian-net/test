@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">AplikasiPendaftaran</string>
+    <string name="form_pendaftaran">FORM PENDAFTARAN SISWA KURSUS</string>
+    <string name="nama">Nama :</string>
+    <string name="alamat">Alamat :</string>
+    <string name="no_hp">No. Hp :</string>
+    <string name="jenis_kelamin">Jenis Kelamin :</string>
+    <string name="pria">Pria</string>
+    <string name="wanita">Wanita</string>
+    <string name="lokasi_pendaftaran">Lokasi Pendaftaran :</string>
+    <string name="upload_foto">Upload Foto :</string>
+    <string name="submit">Submit</string>
+    <string name="cek_lokasi_sekarang">Cek Lokasi Sekarang</string>
+    <string name="pilih_file">pilih file...</string>
+    <string name="upload">Upload</string>
+    <string name="aplikasi_pendaftaran_kursus">Aplikasi Pendaftaran Kursus</string>
+</resources>
